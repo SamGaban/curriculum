@@ -671,7 +671,7 @@ body {
     }
 
     .pic-alone {
-        max-width: 95%;
+        max-width: 85vw;
         margin: 0;
     }
 
@@ -679,6 +679,7 @@ body {
         position: static;
         margin: 0;
         padding: 15px;
+        max-width: 85vw;
         text-align: center;
     }
 
