@@ -741,7 +741,10 @@ body {
 
     .work-list {
         width: 75vw;
-        padding-top: 0;
+    }
+
+    .work-title {
+        grid-area: 2/1/3/7;
     }
 
     .work-list-item {
